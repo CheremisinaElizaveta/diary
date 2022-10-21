@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ежедневник4/1.0.0": {
+        "runtime": {
+          "ежедневник4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ежедневник4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
